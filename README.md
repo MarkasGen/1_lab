@@ -1,2 +1,2 @@
-# 1_lab
-Pirma laboratorinio versija
+# 2_lab
+Antroji laboratorinio versija
