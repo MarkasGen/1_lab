@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1667854611 source:c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\count_median.cpp
+	"count_median.h"
+
+1667854611 c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\count_median.h
+	"duomenys.h"
+
+1667854611 c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\duomenys.h
+	<string>
+	<vector>
+
+1667854611 source:c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\countwordsinstring.cpp
+	"countWordsInString.h"
+	"duomenys.h"
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<iterator>
+	"countWordsInString.h"
+
+1667854611 c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\countwordsinstring.h
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	"duomenys.h"
+	"printStudent.h"
+	"count_median.h"
+
+1667854611 c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\printstudent.h
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	"duomenys.h"
+	"count_median.h"
+
+1667854611 source:c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\duomenys.cpp
+	"duomenys.h"
+
+1667854611 source:c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<iterator>
+	"readFromFile.h"
+	"printStudent.h"
+
+1667854611 c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\readfromfile.h
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<stdlib.h>
+	<sstream>
+	<fstream>
+	<iterator>
+	"duomenys.h"
+	"countWordsInString.h"
+	"printStudent.h"
+	"count_median.h"
+
+1667854611 source:c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\printstudent.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<iterator>
+	"printStudent.h"
+	"count_median.h"
+
+1667854611 source:c:\users\genut\onedrive\desktop\v0.3 galutinis\lab3\readfromfile.cpp
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	<fstream>
+	<iterator>
+	"readFromFile.h"
+	"countWordsInString.h"
+
